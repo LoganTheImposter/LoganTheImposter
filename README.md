@@ -10,7 +10,6 @@ Full-stack Web Developer | Game Developer
 📌 Selected Projects:
 - Training Management Web System (React, PHP)
 - 3D Tourism Mobile Game (Unity – Thesis Project)
-- Game Jam Prototype (Itch.io)
 
 📫 Contact:
 Email: piyaminlekpradit@gmail.com
