@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Piyamin lekpradit 👋
+Full-stack Web Developer | Game Developer
 
-<!--
-**LoganTheImposter/LoganTheImposter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack:
+- React, PHP, MySQL
+- JavaScript, HTML, CSS
+- Unity (C#), Blender
+- Python (Data Analysis)
 
-Here are some ideas to get you started:
+📌 Selected Projects:
+- Training Management Web System (React, PHP)
+- 3D Tourism Mobile Game (Unity – Thesis Project)
+- Game Jam Prototype (Itch.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact:
+Email: piyaminlekpradit@gmail.com
